@@ -1,0 +1,6 @@
+farm-haystack
+streamlit
+torch
+pytube
+llama-cpp-python
+cached_property
